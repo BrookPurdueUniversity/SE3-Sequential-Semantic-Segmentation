@@ -1,1 +1,3 @@
-
+# SE3_shift: raw SE3 model designed. Shifting the node sequentially at each layer of neural network; 
+# SE3_queue: updated data structure, the memory is not shifted, instead here we use en-queue and de-queue to remove old memory and take in new memory;
+# SE3_circular: updated data struture, here we adopt the idea of Dynamic Programming(with rolling array) to save spatial memory.
