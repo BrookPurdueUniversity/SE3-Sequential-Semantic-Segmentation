@@ -1,2 +1,2 @@
 # SE3 is an inferecing model, which can be applied to any state-of-the-art tarinig models.
-## When selecting a specific backbone mode from ./models/, please rename the model file as mode.py for training. 
+## When selecting a specific backbone mode from ./models/, please rename the model file as model.py for training. 
