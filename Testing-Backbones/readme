@@ -1,1 +1,3 @@
 # Using backbone mode to inference, which is based on Tensorflow API.
+## test_patch: tesing in patch-mode;
+## test_shift: tesing in shift-mode.
