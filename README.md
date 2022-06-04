@@ -4,6 +4,9 @@ This repo contains the code to train and evaluate SE3 as described in SE3: Seque
 You need to install :
 * Tensorflow. 
 * opencv.
+# Dataset 
+* UAVid: “UAVid: a semantic segmentation dataset for UAV imagery”, ISPRS Journal of Photogrammetry and Remote Sensing, 2020. 
+* WildPass:  “Capturing Omni-Range Context for Omnidirectional Segmentation”, CVPR, 2021. 
 
 # Citation
 If you use this code for your research, please cite our papers.
